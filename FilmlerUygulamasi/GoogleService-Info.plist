@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>659784718203-6mvu400ls25bnotd4rcgrb043ool8g6g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.659784718203-6mvu400ls25bnotd4rcgrb043ool8g6g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBexGCjEARg35kSBfDAShRnpVOTfqZN7Yk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>659784718203</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>info.FilmlerUygulamasi</string>
+	<key>PROJECT_ID</key>
+	<string>my-project-4bf7a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-project-4bf7a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:659784718203:ios:d921b17180919278b84fde</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-project-4bf7a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
